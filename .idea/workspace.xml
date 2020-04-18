@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5efe3205-ef39-45c8-a77a-0e83c629ca72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aYzcTIwbwjSOEFwiIMpNXRIEhN" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestBestBuy (1)">
+    <configuration name="AmazonHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon.AmazonHome" />
+      <module name="SeleniumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BestBuyLocator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstTestWithBestBuy.BestBuyLocator" />
+      <module name="SeleniumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstTestWithBestBuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAmazon (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Amazon" />
+      <option name="MAIN_CLASS_NAME" value="Amazon.TestAmazon" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAmazon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDemo" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Amazon" />
+      <option name="MAIN_CLASS_NAME" value="Amazon.TestAmazon" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBestBuy (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstTestWithBestBuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FirstTestWithBestBuy" />
+      <option name="MAIN_CLASS_NAME" value="FirstTestWithBestBuy.TestBestBuy" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AmazonHome" />
+      <item itemvalue="Application.BestBuyLocator" />
+      <item itemvalue="TestNG.TestAmazon (1)" />
+      <item itemvalue="TestNG.TestAmazon" />
+      <item itemvalue="TestNG.TestBestBuy (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestBestBuy (1)" />
+        <item itemvalue="Application.AmazonHome" />
+        <item itemvalue="TestNG.TestAmazon (1)" />
+        <item itemvalue="TestNG.TestAmazon" />
+        <item itemvalue="Application.BestBuyLocator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_ANONYMOUS,SHOW_NON_PUBLIC,SHOW_FIELDS,SHOW_PROPERTIES,SHOW_INTERFACES,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5efe3205-ef39-45c8-a77a-0e83c629ca72" name="Default Changelist" comment="" />
+      <created>1586927396146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586927396146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="132" key="#Notifications" timestamp="1587087795877">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="420" y="132" key="#Notifications/0.23.1440.830@0.23.1440.830" timestamp="1587087795877" />
+    <state x="378" y="105" key="#Project_Structure" timestamp="1587096279402">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="378" y="105" key="#Project_Structure/0.23.1440.834@0.23.1440.834" timestamp="1587096279402" />
+    <state x="193" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587096894718">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="193" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1587096894718" />
+    <state x="420" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587096843671">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="420" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.834@0.23.1440.834" timestamp="1587096843671" />
+    <state x="637" y="160" width="557" height="558" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587172748725">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="637" y="160" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.1440.830@0.23.1440.830" timestamp="1587172748725" />
+    <state x="637" y="161" width="557" height="558" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.1440.834@0.23.1440.834" timestamp="1587096654825" />
+    <state width="1342" height="194" key="GridCell.Tab.0.bottom" timestamp="1587178628293">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1194" height="124" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1586991469365" />
+    <state width="1164" height="202" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587102302056" />
+    <state width="1342" height="194" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587178628293" />
+    <state width="1164" height="201" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587103573993" />
+    <state width="1122" height="211" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587093000856" />
+    <state width="1164" height="201" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1587103812275" />
+    <state width="1164" height="202" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1587099658472" />
+    <state width="1122" height="172" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1587092293397" />
+    <state width="1122" height="172" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1587092407625" />
+    <state width="1122" height="172" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1587092552503" />
+    <state width="1122" height="172" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1587092610104" />
+    <state width="1342" height="194" key="GridCell.Tab.0.center" timestamp="1587178628292">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1194" height="124" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1586991469364" />
+    <state width="1164" height="202" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587102302055" />
+    <state width="1342" height="194" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587178628292" />
+    <state width="1164" height="201" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1587103573989" />
+    <state width="1122" height="211" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587093000855" />
+    <state width="1164" height="201" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1587103812274" />
+    <state width="1164" height="202" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1587099658469" />
+    <state width="1122" height="172" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1587092293395" />
+    <state width="1122" height="172" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1587092407623" />
+    <state width="1122" height="172" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1587092552501" />
+    <state width="1122" height="172" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1587092610097" />
+    <state width="1342" height="194" key="GridCell.Tab.0.left" timestamp="1587178628292">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1194" height="124" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1586991469363" />
+    <state width="1164" height="202" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587102302053" />
+    <state width="1342" height="194" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587178628292" />
+    <state width="1164" height="201" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1587103573989" />
+    <state width="1122" height="211" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587093000854" />
+    <state width="1164" height="201" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1587103812274" />
+    <state width="1164" height="202" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1587099658469" />
+    <state width="1122" height="172" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1587092293394" />
+    <state width="1122" height="172" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1587092407617" />
+    <state width="1122" height="172" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1587092552498" />
+    <state width="1122" height="172" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1587092610096" />
+    <state width="1342" height="194" key="GridCell.Tab.0.right" timestamp="1587178628293">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1194" height="124" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1586991469365" />
+    <state width="1164" height="202" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587102302055" />
+    <state width="1342" height="194" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587178628293" />
+    <state width="1164" height="201" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1587103573991" />
+    <state width="1122" height="211" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587093000855" />
+    <state width="1164" height="201" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1587103812275" />
+    <state width="1164" height="202" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1587099658470" />
+    <state width="1122" height="172" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1587092293396" />
+    <state width="1122" height="172" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1587092407624" />
+    <state width="1122" height="172" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1587092552502" />
+    <state width="1122" height="172" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1587092610098" />
+    <state x="212" y="23" width="1024" height="830" key="SettingsEditor" timestamp="1587174183392">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="212" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1587174183392" />
+    <state x="287" y="23" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1587098742507" />
+    <state x="-147" y="138" key="new project wizard" timestamp="1586999483701">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="-147" y="138" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1586999483701" />
+    <state x="130" y="50" key="new project wizard/0.23.1440.831@0.23.1440.831" timestamp="1586927572786" />
+    <state x="485" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1587087727025">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="485" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1587087727025" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumDemo$TestBestBuy.ic" NAME="TestBestBuy Coverage Results" MODIFIED="1587095556205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FirstTestWithBestBuy.*</FILTER>
+    </SUITE>
+  </component>
+</project>
